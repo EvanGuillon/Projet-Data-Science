@@ -18,8 +18,7 @@ Ce projet a pour but d’analyser et de modéliser des données d’enquête iss
 
    - Langage : Python
    - Bibliothèques principales : pandas, numpy, matplotlib, seaborn, scikit-learn
-
-Environnement : Jupyter Notebook
+   - Environnement : Jupyter Notebook
 
 ⚠️ Remarque importante
    - Certaines visualisations (matrices de corrélation, heatmaps, arbres de décision) peuvent parfois ne pas bien s’afficher en ligne.
